@@ -82,7 +82,7 @@ Sistema próprio de blockchain construído do zero, com estudo de:
 * Prova de trabalho (PoW)
 * Ledger distribuído
 * Transações assinadas
-* Possível integração futura com microserviços
+* Integração complexa com microserviços
 
 Este projeto ainda está em fase ativa de construção, mas já demonstra domínio de criptografia, estruturas de dados complexas e fundamentos de computação distribuída.
 
